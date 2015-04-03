@@ -12,7 +12,7 @@ module.exports = function (grunt) {
 		'gh-pages': {
 			options: {
 				//clone: 'bower_components/hello-world',
-				push: false
+				//push: false
 			},
 			src: [
 				'bower_components/**/*',
